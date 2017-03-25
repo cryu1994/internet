@@ -1,0 +1,38 @@
+#wrapper{
+    width: 950px;
+}
+
+*{
+    outline: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.header{
+    margin: 2px 5px 5px 10px;
+    padding: 10px;
+    position: relative;
+    right: 20px;
+}
+#img1{
+    height: 80px;
+    width: 80px;
+    margin: 5px 5px 5px 30px;
+    display: inline-block;
+    position: relative;
+    top: 30px;
+}
+h1{
+    display: inline-block;
+    margin-left: 13px;
+}
+span{
+    color: steelblue;
+}
+#title{
+    width: 950px;
+    height: 40px;
+    background: linear-gradient(#2A6797, #5384A8, #2A6797);
+    margin: 5px 10px 5px 10px;
+    padding: 5px;
+}
